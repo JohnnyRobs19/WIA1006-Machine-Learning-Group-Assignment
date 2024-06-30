@@ -1,3 +1,11 @@
+Group Members:
+1. Jonathan Siew Zunxian 
+2. Goh Shu Hui 
+3. Adam bin Razali 
+4. Lam Xiao Jun 
+5. Cynthia Ong Ka
+6. Syivhanii A/P Selvarajan 
+
 Problem Statement: Predicting Malaysia's Unemployment Trends
 
 Context:
